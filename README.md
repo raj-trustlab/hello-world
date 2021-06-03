@@ -1,4 +1,4 @@
 # hello-world
 Hello World!
 
-This is to help me learn about GitHub!
+This is a change I made in the command-line.
